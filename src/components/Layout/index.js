@@ -5,7 +5,7 @@ import * as S from "./styled"
 import Sidebar from "../Sidebar"
 
 import GlobalStyles from "../../styles/global"
-import MenuBar from "../Menubar"
+import MenuBar from "../MenuBar"
 import {TransitionPortal} from "gatsby-plugin-transition-link"
 
 
