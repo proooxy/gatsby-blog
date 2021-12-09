@@ -8,7 +8,7 @@ module.exports = {
     position: `FullStack Developer`,
     description: `Blog sobre tecnologia`,
     author: `@fhenriquecdo`,
-    siteUrl: `https://henriquedev.com`,
+    siteUrl: `https://henriquedevblog.netlify.app/`,
 
   },
   plugins: [
