@@ -67,13 +67,13 @@ const GlobalStyles = createGlobalStyle`
     --texts: #8899a6;
     --postColor: #fff;
     --highlight: #9708cc;
-    --mediumBackground: #1f1f1f;
-    --background: #111;
+    --mediumBackground: #303134;
+    --background: #202124;
     --white: #fff;
     --black: #222;
   }
   body.light {
-    --borders: #dedede;
+    --borders: #565a5f;
     --postColor: #111;
     --texts: #555555;
     --highlight: #9708cc;
