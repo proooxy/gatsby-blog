@@ -72,6 +72,8 @@ const GlobalStyles = createGlobalStyle`
     --white: #fff;
     --black: #222;
   }
+  
+  
   body.light {
     --borders: #dedede;
     --postColor: #111;
