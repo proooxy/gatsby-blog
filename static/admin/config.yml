@@ -2,7 +2,7 @@ backend:
   name: github
   repo: proooxy/gatsby-blog
   branch: main
-  site_domain: henriquedevblog.netlify.app/
+  site_domain: henriquedevblog.netlify.app
 
   
 publish_mode: editorial_workflow
