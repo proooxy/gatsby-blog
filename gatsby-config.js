@@ -4,9 +4,9 @@ const queries = require("./src/utils/algolia_queries")
 
 module.exports = {
   siteMetadata: {
-    title: `Francisco Henrique`,
-    position: `FullStack Developer`,
-    description: `Blog sobre desenvolvimento`,
+    title: `<FranciscoHenrique/>`,
+    position: `Estudante FullStack`,
+    description: `Blog sobre tecnologia e desenvolvimento`,
     author: `@fhenriquecdo`,
     siteUrl: `https://henriquedevblog.netlify.app/`,
 
@@ -81,7 +81,7 @@ module.exports = {
         background_color: `#111`,
         theme_color: `#111`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/favicon-code.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-sitemap`,

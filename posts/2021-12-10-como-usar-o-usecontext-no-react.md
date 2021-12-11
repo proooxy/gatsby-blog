@@ -5,6 +5,8 @@ date: 2021-12-10 11:58:05
 thumbnail: assets/img/usecontext-hook-twitter.png
 category: react
 background: "#B31917"
+image: "/assets/img/desert.jpg"
+
 ---
 # **Comparações**
 
