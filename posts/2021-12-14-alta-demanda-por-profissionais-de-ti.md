@@ -1,45 +1,5 @@
 ---
-"0": /
-"1": a
-"2": s
-"3": s
-"4": e
-"5": t
-"6": s
-"7": /
-"8": i
-"9": m
-"10": g
-"11": /
-"12": l
-"13": i
-"14": n
-"15": g
-"16": u
-"17": a
-"18": g
-"19": e
-"20": n
-"21": s
-"22": "-"
-"23": d
-"24": e
-"25": "-"
-"26": p
-"27": r
-"28": o
-"29": g
-"30": r
-"31": a
-"32": m
-"33": a
-"34": c
-"35": a
-"36": o
-"37": .
-"38": j
-"39": p
-"40": g
+image: /assets/img/linguagens-de-programacao.jpg
 title: Alta demanda por profissionais de TI
 description: Mercado aponta para uma alta demanda de profissionais de TI nos proximos anos
 date: 2021-12-14 11:28:00
