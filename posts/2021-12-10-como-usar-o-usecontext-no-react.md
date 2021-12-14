@@ -1,13 +1,11 @@
 ---
 image: /assets/img/desert.jpg
-title: Como usar o useContext no React
+title: Como usar o useContext no ReactJS
 description: Um breve tutorial com dicas praticas de uso no useContext
 date: 2021-12-10 11:58:05
 thumbnail: assets/img/usecontext-hook-twitter.png
 category: react
 background: "#B31917"
-
-
 ---
 
 # **Comparações**
