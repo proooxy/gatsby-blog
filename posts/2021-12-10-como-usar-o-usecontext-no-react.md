@@ -1,32 +1,22 @@
 ---
 image: /assets/img/desert.jpg
-title: Como usar o useContext no ReactJS
-description: Um breve tutorial com dicas praticas de uso no useContext
-date: 2021-12-10 11:58:05
-thumbnail: assets/img/usecontext-hook-twitter.png
-category: react
-background: "#B31917"
+title: Alta demanda por profissionais de TI
+description: Vagas para profissionais de tecnologia disparam
+date: 2021-12-14 11:06:07
+thumbnail: assets/img/linguagens-de-programacao.jpg
+category: dev
+background: "#8257e6"
 ---
+# Demanda por profissionais de TI será de 420 mil pessoas até 2024 e o Brasil forma menos de 50 mil por ano
 
-# **Comparações**
+É fato que a pandemia forçou o mercado a se modernizar e se digitalizar o maximo possivel e mais uma vez a tecnologia acompanhou e ajudou nesse sentido. Levantamento da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom) apontou que a **procura por profissionais na área de TI será de 420 mil pessoas, até 2024, no país**. Porém, hoje, segundo a entidade, o Brasil forma 46 mil profissionais com perfil tecnológico por ano. 
 
-Poucos sabem mais o React já teve uma “[API de context](https://pt-br.reactjs.org/docs/legacy-context.html)o” antes da implementação dos hooks. O contexto era “embutido” no this do componente, que disponibilizava métodos auxiliares para acessar o mesmo.\
-A principal dificuldade em utilizar essa forma de contexto era gerenciar como ele era passado entre os componentes, por isso essa API nunca foi muito utilizada, sempre que havia necessidade de usar uma forma de “state global” optávamos por implementações como [redux](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwi36PKVvdToAhVrHLkGHS9FBcMQFjABegQIAxAB&url=https%3A%2F%2Fredux.js.org%2Fintroduction%2Fgetting-started&usg=AOvVaw3poOhKKu-c0Wtpt9_zhNLR), [effector](https://effector.now.sh/), etc …
 
-Aqui segue um exemplo simples de como era sua implementação
 
-Antiga API de contexto — [gist completo](https://gist.github.com/dev-jpnobrega/e880a4cd935bd76beed8a0e5a9670451)
+![Profissionais de TI](assets/img/linguagens-de-programacao.jpg "Programação")
 
-Note que dentro do componente **MessageList** temos o método `getChildContext` que define o contexto que será passado para os filhos, `childContextTypes` e `contextTypes` definem os tipos das propriedades esperadas dentro do contexto.
 
-![UseContext](assets/img/usecontext-hook-twitter.png "ReactHooks")
 
-Dentro da nova API de contexto cada objeto *context* vem com dois componentes `Provider`e `Consumer;
-Provider` permite componentes consumidores assinarem mudanças no contexto.\
-`Consumer`é utilizado nos componentes que precisam consumir o valor daquele contexto.
+A expectativa, este ano, é de **56 mil novos postos de trabalho criados, enquanto a previsão ficava em 36 mil novas vagas em aberto no ano de 2019 e outras 43 mil novas vagas sem preenchimento no ano de 2020**. Este último, já considerando a pandemia e em um cenário de dispensa menor, de 30 mil funcionários entre os meses de março, abril e maio do ano passado.
 
-Está segregação nos permite utilizar o `Consumer` só nos componentes que terão necessidade de consumir aquele contexto.
-
-Nota, um consumidor já mais altera o estado do contexto, se você tem componentes alinhados que precisam atualizar o contexto a partir de componentes filhos, você pode passar uma função dentro do contexto permitindo que, componentes filhos atualizem o contexto (o exemplo abaixo mostra essa implementação).
-
-Vou deixar um exemplo simples de como utilizar a nova API (deixei alguns comentários no código para mostrar o passo a passo).
+Ou seja, o mercado aponta que será um setor muito aquecido e procurado nos próximos anos.
