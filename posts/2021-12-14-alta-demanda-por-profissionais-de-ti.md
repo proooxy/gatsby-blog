@@ -7,7 +7,7 @@ thumbnail: assets/img/linguagens-de-programacao.jpg
 category: dev
 background: "#8257e6"
 ---
-# Demanda por profissionais de TI será de 420 mil pessoas até 2024 e o Brasil forma menos de 50 mil por ano
+## Demanda por profissionais de TI será de 420 mil pessoas até 2024 e o Brasil forma menos de 50 mil por ano
 
 É fato que a pandemia forçou o mercado a se modernizar e se digitalizar o maximo possivel e mais uma vez a tecnologia acompanhou e ajudou nesse sentido. Levantamento da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom) apontou que a **procura por profissionais na área de TI será de 420 mil pessoas, até 2024, no país**. Porém, hoje, segundo a entidade, o Brasil forma 46 mil profissionais com perfil tecnológico por ano. 
 
