@@ -1,13 +1,13 @@
 ---
-title: Como usar o useState na pratica
+title: Como usar o useState na prática
 description: Aprenda da forma mais fácil e prática possivel dominar esse Hook do
-  React fazendo um contador
+  React fazendo um contador simples
 date: 2021-12-15 04:17:35
 thumbnail: https://miro.medium.com/max/3000/1*-Ijet6kVJqGgul6adezDLQ.png
 category: react
 background: "#5ed3f3"
 ---
-Vamos aprender na prática como usar o useState e manipular esse state **fazendo um simples contador no qual você aperta um botão e o valor muda na tela sem precisar atualizar nada**, e apenas com **algumas linhas de códigos.**
+Vamos aprender na prática como usar o useState e manipular o state **fazendo um simples contador no qual você aperta um botão e o valor muda na tela sem precisar atualizar nada**, apenas com **algumas linhas de códigos.**
 
 ![Contador](assets/img/cont.gif "Contador")
 
