@@ -9,7 +9,7 @@ background: "#5ed3f3"
 ---
 Vamos aprender na prática como usar o useState e manipular o state **fazendo um simples contador no qual você aperta um botão e o valor muda na tela sem precisar atualizar nada**, apenas com **algumas linhas de códigos.**
 
-![Contador](https://i.ibb.co/KNk6wBY/cont.gif "Contador")
+
 
 Segundo a documentação do React:
 
@@ -41,7 +41,7 @@ export default App;
 
 Tendo esse resultado: 
 
-![Contador](assets/img/2021-12-15-2-.png "Contador")
+![Interface do contador](assets/img/2021-12-15-2-.png "Contador - interface")
 
 Ao declarar o useState:
 
