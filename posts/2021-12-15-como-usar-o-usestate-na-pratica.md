@@ -41,7 +41,7 @@ export default App;
 
 Tendo esse resultado: 
 
-![Contador](assets/img/cont.gif "Contador")
+![Contador](assets/img/2021-12-15-2-.png "Contador")
 
 Ao declarar o useState:
 
